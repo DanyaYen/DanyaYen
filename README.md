@@ -13,7 +13,7 @@
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="300" src="https://www.gifcen.com/wp-content/uploads/2024/05/satoru-gojo-gif.gif">
-I'm an aspiring **Web Developer** with a passion for creating beautiful, responsive web applications. Currently studying Computer Engineering at KPI, I'm constantly expanding my skillset and exploring new technologies. With strong English skills (B2+) and an adaptable mindset, I'm ready to take on new challenges and contribute to innovative projects.
+I'm an aspiring Web Developer with a passion for creating beautiful, responsive web applications. Currently studying Computer Engineering at KPI, I'm constantly expanding my skillset and exploring new technologies. With strong English skills (B2+) and an adaptable mindset, I'm ready to take on new challenges and contribute to innovative projects.
 
 - 🔭 I'm currently building **full-stack web applications** with modern frameworks
 - 🌱 I'm deepening my knowledge in **JavaScript ecosystem and Python backend development**
