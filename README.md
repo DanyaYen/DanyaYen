@@ -73,7 +73,7 @@ I'm an aspiring Web Developer with a passion for creating beautiful, responsive 
 <div align="center">
   
 **Igor Sikorsky Kyiv Polytechnic Institute (KPI)**  
-Faculty of Informatics and Computer Technology  
+Faculty of Informatics and Computer Engineering  
 🎯 Computer Engineering  
 📅 2024 - Present
   
