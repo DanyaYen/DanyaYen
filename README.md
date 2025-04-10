@@ -2,7 +2,7 @@
   
 # 💻 Danylo Yen 💻
 
-[![Telegram](https://img.shields.io/badge/Telegram-@mtnlmptnss-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/corner_close_day)
+[![Telegram](https://img.shields.io/badge/Telegram-@corner_close_day-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/corner_close_day)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Danylo_Yen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danylo-yen-b96390339/)
   
 </div>
