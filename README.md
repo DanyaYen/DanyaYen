@@ -2,7 +2,7 @@
   
 # 💻 Danylo Yen 💻
 
-[![Telegram](https://img.shields.io/badge/Telegram-@mtnlmptnss-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/mtnlmptnss)
+[![Telegram](https://img.shields.io/badge/Telegram-@mtnlmptnss-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/corner_close_day)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Danylo_Yen-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/danylo-yen-b96390339/)
   
 </div>
@@ -13,10 +13,9 @@
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="300" src="https://www.gifcen.com/wp-content/uploads/2024/05/satoru-gojo-gif.gif">
-I'm an aspiring Web Developer with a passion for creating beautiful, responsive web applications. Currently studying Computer Engineering at KPI, I'm constantly expanding my skillset and exploring new technologies. With strong English skills (B2+) and an adaptable mindset, I'm ready to take on new challenges and contribute to innovative projects.
+I am a Computer Engineering student at KPI with a deep interest in web development, focusing on creating aesthetically pleasing and responsive web applications. I actively enhance my skills by developing full-stack projects using modern frameworks and deepening my knowledge of the JavaScript ecosystem and Python backend development. With a B2+ English level and a proactive approach to learning, I am eager to join innovative projects and tackle new technical challenges.
 
-- 🔭 I'm currently building **full-stack web applications** with modern frameworks
-- 🌱 I'm deepening my knowledge in **JavaScript ecosystem and Python backend development**
+- 🌱 I'm deepening my knowledge in **Python backend development**
 - 💬 Let's talk about **Web dev, AI and Crypto**
 - ⚡ Fun fact: **I use EndevourOS(almost Archbtw))**
 
