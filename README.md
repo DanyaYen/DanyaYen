@@ -62,7 +62,7 @@ I am a Computer Engineering student at KPI with a deep interest in web developme
 <div align="center">
   <!-- Note: You'll need to set up these GitHub stats cards from https://github.com/anuraghazra/github-readme-stats -->
   <img src="https://github-readme-stats.vercel.app/api?username=DanyaYen&show_icons=true&theme=radical" alt="Danylo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaYen&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="[https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaYen&layout=compact&theme=radical](https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaYen&layout=compact&theme=radical)" alt="Top Languages" />
 </div>
 
 ---
