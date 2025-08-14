@@ -12,6 +12,7 @@
 ## 👨‍💻 About Me
 
 <img align="right" alt="Coding" width="300" src="https://www.gifcen.com/wp-content/uploads/2024/05/satoru-gojo-gif.gif">
+Danya Yen, that's my name, man, I ain't fucking play
 I am a Computer Engineering student at KPI with a deep interest in web development, focusing on creating aesthetically pleasing and responsive web applications. I actively enhance my skills by developing full-stack projects using modern frameworks and deepening my knowledge of the JavaScript ecosystem and Python backend development. With a B2+ English level and a proactive approach to learning, I am eager to join innovative projects and tackle new technical challenges.
 
 - 🌱 I'm deepening my knowledge in **Python backend development**
