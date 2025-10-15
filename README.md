@@ -1,96 +1,53 @@
 <div align="center">
-  
-# 💻 Danylo Yen 💻
 
-[![Telegram](https://img.shields.io/badge/Telegram-@corner_close_day-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/corner_close_day)
+# Hi there, I'm Danylo Yen 👋
+
+### Software Engineer | Cloud & Automation
+
+<p align="center">
+  <a href="mailto:yendanylo@gmail.com"><img src="https://img.shields.io/badge/Email-yendanylo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://t.me/The_Watcher_2"><img src="https://img.shields.io/badge/Telegram-@The_Watcher_2-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
+  <a href="https://github.com/DanyaYen"><img src="https://img.shields.io/badge/GitHub-DanyaYen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
+  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+</p>
 
 </div>
 
 ---
-
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="300" src="https://www.gifcen.com/wp-content/uploads/2024/05/satoru-gojo-gif.gif">
-Danya Yen, that's my name, man, I ain't fucking play
-I am a Computer Engineering student at KPI with a deep interest in web development, focusing on creating aesthetically pleasing and responsive web applications. I actively enhance my skills by developing full-stack projects using modern frameworks and deepening my knowledge of the JavaScript ecosystem and Python backend development. With a B2+ English level and a proactive approach to learning, I am eager to join innovative projects and tackle new technical challenges.
+<img align="right" alt="DevOps" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
 
-- 🌱 I'm deepening my knowledge in **Python backend development**
-- 💬 Let's talk about **Web dev, AI and Crypto**
-- ⚡ Fun fact: **I use EndevourOS(almost Archbtw))**
+I'm a Computer Engineering student with a strong passion for the entire development lifecycle — from designing scalable backend systems and automating cloud infrastructure to creating smooth user interfaces.
 
+My main focus is on cloud-native technologies like **Kubernetes**, **Docker**, and **Terraform**. I enjoy solving complex problems and bringing ideas to life, primarily using **Go** and **Python** on the backend.
+
+- ☁️ Building and automating infrastructure on **GCP** and **AWS**.
+- 🚀 Crafting robust **CI/CD pipelines** to ensure smooth and reliable deployments.
+- 💡 Exploring AI/ML integrations and building intelligent applications.
+- 🌱 Always learning, constantly exploring new tools, and looking for exciting challenges to tackle.
 
 ---
-## 🛠️ Tech Stack
+## 🛠️ My Tech Stack
 
-<div align="center">
-
-### Languages
-![JavaScript](https://img.shields.io/badge/javascript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/typescript-%233178C6.svg?style=for-the-badge&logo=typescript&logoColor=white)
-![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-
-### Frontend
-![React](https://img.shields.io/badge/react-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/tailwind_css-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![Next.js](https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=next.js&logoColor=white)
-
-### Backend & Databases
-![Express.js](https://img.shields.io/badge/express-%23000000.svg?style=for-the-badge&logo=express&logoColor=white)
-![FastAPI](https://img.shields.io/badge/fastapi-%23009688.svg?style=for-the-badge&logo=fastapi&logoColor=white)
-![Node.js](https://img.shields.io/badge/node.js-%23339933.svg?style=for-the-badge&logo=node.js&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/mongodb-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white)
-
-### Tools & More
-![Git](https://img.shields.io/badge/git-%23F05032.svg?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black)
-![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![React Native](https://img.shields.io/badge/react_native-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black)
-
-</div>
+| Category | Technologies |
+|---|---|
+| **Cloud Platforms** | <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" /> <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" /> |
+| **Infrastructure as Code** | <img src="https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white" /> <img src="https://img.shields.io/badge/TerraGrunt-333333?style=for-the-badge" /> |
+| **CI/CD & Automation** | <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" /> <img src="https://img.shields.io/badge/GitLab_CI-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white" /> <img src="https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white" /> <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" /> |
+| **Containers & Orchestration** | <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" /> <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" /> |
+| **Programming Languages** | <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" /> |
+| **Web Frameworks** | <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" /> <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" /> <img src="https://img.shields.io/badge/Fiber-000000?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/Gin-007A9F?style=for-the-badge&logo=go&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" /> |
+| **Databases & Caching** | <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" /> <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=for-the-badge&logo=supabase&logoColor=white" /> <img src="https://img.shields.io/badge/Firestore-FFCA28?style=for-the-badge&logo=google-cloud&logoColor=black" /> <img src="https://img.shields.io/badge/Neo4j-4581C3?style=for-the-badge&logo=neo4j&logoColor=white" /> <img src="https://img.shields.io/badge/Upstash-000000?style=for-the-badge&logo=upstash&logoColor=white" /> |
+| **Monitoring & Logging** | <img src="https://img.shields.io/badge/Prometheus-E6522C?style=for-the-badge&logo=prometheus&logoColor=white" /> <img src="https://img.shields.io/badge/Grafana-F46800?style=for-the-badge&logo=grafana&logoColor=white" /> <img src="https://img.shields.io/badge/Loki-F48E12?style=for-the-badge&logo=grafana&logoColor=white" /> |
+| **Tools & Other** | <img src="https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq&logoColor=white" /> <img src="https://img.shields.io/badge/Ollama-000000?style=for-the-badge" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" /> <img src="https://img.shields.io/badge/Trivy-0C1D5A?style=for-the-badge&logo=aqua&logoColor=white" /> |
 
 ---
 
 ## 📊 GitHub Stats
 
 <div align="center">
-  <!-- Note: You'll need to set up these GitHub stats cards from https://github.com/anuraghazra/github-readme-stats -->
-  <img src="https://github-readme-stats.vercel.app/api?username=DanyaYen&show_icons=true&theme=radical" alt="Danylo's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaYen&layout=compact&theme=radical" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DanyaYen&show_icons=true&theme=tokyonight" alt="Danylo's GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaYen&layout=compact&theme=tokyonight" alt="Top Languages" />
 </div>
-
----
-
-## 🎓 Education
-
-<div align="center">
-  
-**Igor Sikorsky Kyiv Polytechnic Institute (KPI)**  
-Faculty of Informatics and Computer Engineering  
-🎯 Computer Engineering  
-  
-</div>
-
----
-
-<div align="center">
-  
-### 🔗 GitHub Profiles
-[![Main GitHub](https://img.shields.io/badge/GitHub-DanyaYen_(main)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/DanyaYen)
-[![Secondary GitHub](https://img.shields.io/badge/GitHub-mtnlmptnss_(secondary)-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mtnlmptnss)
-
-<!-- Note: You'll need to set up the visitor counter from https://github.com/antonkomarev/github-profile-views-counter -->
-### 📈 Profile Views
-![Profile Views](https://komarev.com/ghpvc/?username=DanyaYen&color=brightgreen&style=for-the-badge)
-  
-</div>
-
-<!--
-**DanyaYen/DanyaYen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
