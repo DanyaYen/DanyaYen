@@ -17,7 +17,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" alt="DevOps" width="400" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif">
+<img align="right" alt="Coding" width="300" src="https://www.gifcen.com/wp-content/uploads/2024/05/satoru-gojo-gif.gif">
 
 I'm a Computer Engineering student with a strong passion for the entire development lifecycle — from designing scalable backend systems and automating cloud infrastructure to creating smooth user interfaces.
 
@@ -50,4 +50,13 @@ My main focus is on cloud-native technologies like **Kubernetes**, **Docker**, a
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=DanyaYen&show_icons=true&theme=tokyonight" alt="Danylo's GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DanyaYen&layout=compact&theme=tokyonight" alt="Top Languages" />
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=DanyaYen&color=brightgreen&style=for-the-badge)
+  
 </div>
