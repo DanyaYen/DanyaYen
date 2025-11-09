@@ -8,7 +8,7 @@
   <a href="mailto:yendanylo@gmail.com"><img src="https://img.shields.io/badge/Email-yendanylo@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"></a>
   <a href="https://t.me/The_Watcher_2"><img src="https://img.shields.io/badge/Telegram-@The_Watcher_2-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"></a>
   <a href="https://github.com/DanyaYen"><img src="https://img.shields.io/badge/GitHub-DanyaYen-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"></a>
-  <a href="YOUR_LINKEDIN_URL"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/danylo-yen-7ab694391/"><img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </p>
 
 </div>
